@@ -480,3 +480,4 @@ to create compelling Web experiences!
 [footer]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
 [header]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
 [nav]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+# aa07-solo-semantic-html
